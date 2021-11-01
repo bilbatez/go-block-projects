@@ -1,2 +1,2 @@
 # go-block-projects
-A very go block projects
+Block size go projects
